@@ -1,4 +1,4 @@
-# gioco1
+
 <!DOCTYPE html>
 <html lang="it">
 <head>
